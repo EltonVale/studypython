@@ -1,6 +1,10 @@
 """
 
+## Teste alteração dicionarios
+
 Em outras linguagens de programacao, dicionarios é chamado de mapas.
+
+
 
 Dicionarios sao colecoes do tipo chave/valor
 
